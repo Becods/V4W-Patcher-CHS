@@ -24,12 +24,14 @@
 * 运行V4W-Patcher-CHS.bat，按照提示进行 😉
 
 ### Change Log:
-<details><summary>单击折叠/展开</summary><br/> 
+<details><summary>单击折叠/展开</summary><br/>
+
 ```
 * v2.0 - 修复一些BUG和更新了UI
        - 修复了音频服务名称
        - 添加了"重启音频服务"
-* v1.1: 改进了注册表修复，管理请求和UI
-      - 添加 '启动配置程序'
-* v1.0: 初始版本.
+* v1.1 - 改进了注册表修复，管理请求和UI
+       - 添加 '启动配置程序'
+* v1.0 - 初始版本.
 ```
+</details>
