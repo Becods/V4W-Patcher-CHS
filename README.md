@@ -1,19 +1,18 @@
 # ViPER4Windows-Patcher
 一个能让你在Windows10上完美使用ViPER4Windows的补丁
 
+><b>需要:</b> Windows-10 + PowerShell
+
 作者 [metaspook](https://github.com/metaspook) 汉化 [BecodReyes](https://github.com/BecodReyes)
 
 ### Screenshot:
-![Screenshot](https://ae03.alicdn.com/kf/Ud940ee58cef444b6ad8528b1c5a17df0S.jpg)
+![Screenshot](https://p.pstatp.com/origin/138ac000087c5b60d4f4a)
 
 ### Features:
 * 修复不兼容问题
 * 修复注册表项问题
-* 方便的可移植脚本，可在任何地方运行
-* 集成管理特权请求
-
-### Applicable OS:
-* Windows 10+
+* 可移植脚本，可在任何地方运行
+* 管理权限请求
 
 ### Download:
 #### [V4W-Patcher-CHS-master.zip](https://github.com/BecodReyes/V4W-Patcher-CHS/archive/master.zip)
@@ -25,6 +24,12 @@
 * 运行V4W-Patcher-CHS.bat，按照提示进行 😉
 
 ### Change Log:
+<details><summary>单击折叠/展开</summary><br/> 
+```
+* v2.0 - 修复一些BUG和更新了UI
+       - 修复了音频服务名称
+       - 添加了"重启音频服务"
 * v1.1: 改进了注册表修复，管理请求和UI
-* ----- 添加 '启动配置程序'
+      - 添加 '启动配置程序'
 * v1.0: 初始版本.
+```
